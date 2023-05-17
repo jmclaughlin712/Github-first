@@ -1,3 +1,0 @@
-"An analysis of NYC Open Parking Violation Data"
-
-path = "C:\Users\jimmy\Downloads\Parking-Violations.csv"
